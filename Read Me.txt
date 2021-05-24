@@ -1,0 +1,9 @@
+
+1. Dataset File:
+	Mall_Customers.csv
+
+2. Project Code:
+	Mall-Customers-Clustering.ipynb
+
+3. Video Interface File:
+	demo_video.wmv
